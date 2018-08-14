@@ -69,13 +69,13 @@
         instead of into .mvn/wrapper it looses the .mvn path and extracts to wrapper -->
         <version>0.1.46</version>
         <extensions>true</extensions>
-      </plugin
+      </plugin>
       <!-- Sonar is our quality tracking tool -->
        <plugin>
           <groupId>org.codehaus.mojo</groupId>
           <artifactId>sonar-maven-plugin</artifactId>
           <version>3.3.0.603</version>
-       </plugin>>
+       </plugin>
     </plugins>
   </build>
 </project>
