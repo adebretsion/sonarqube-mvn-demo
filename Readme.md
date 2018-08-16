@@ -55,8 +55,9 @@ You can look at the realtime logs of terraform's provisioning by SSH'ing to the 
 
 1. Right click on the download link and “copy link address”
 
-![alt copy jenkins download link](copy-link.png "Logo Title Text 1")
-
+<kbd>
+  <img src="copy-link.png">
+</kbd>
 
 2. Log in into jenkins container
 
