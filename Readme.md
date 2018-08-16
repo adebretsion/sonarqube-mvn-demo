@@ -1,4 +1,4 @@
-### How to re-create jenkins infrustructure
+### Re-create jenkins infrustructure
 
 1. Referesh aws credential
 
@@ -61,7 +61,7 @@ You can look at the realtime logs of terraform's provisioning by SSH'ing to the 
   tail -f /var/log/cloud-init-output.log 
 ```
 
-### How To Update Jenkins
+### Update Jenkins
 
 1. Right click on the download link and “copy link address”
 
